@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SellVehicle
+comment1.params=id\ customer\ owner\ typeOfVehicle\ price
+comment1.target=SellVehicle(int,\ Customer,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=id\ owner\ typeOfVehicle\ price
+comment2.target=SellVehicle(int,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=customer
+comment3.target=double\ sell(Customer)
+comment4.params=owner
+comment4.target=void\ setSeller(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
